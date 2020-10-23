@@ -1,0 +1,21 @@
+{
+  "users": [
+    { "id": 1, "firstName": "John", "lastName": "Snow", email: "john.snowAlive@gmail.com" },
+    { "id": 2, "firstName": "Alice", "lastName": "Wonderland", email: "alice@mail.com" },
+    { "id": 3, "firstName": "Dins", "lastName": "Company", email: "thebest123@gmail.com" },
+    { "id": 8, "firstName": "French", "lastName": "Pies", email: "taste.pie1@gmail.co" },
+    { "id": 9, "firstName": "Chet", "lastName": "Baker", email: "jazzEveryWhere1929@gmail.com" }
+  ],
+  "purchases": [
+    { "userId": 1, "productId": "1"},
+    { "userId": 1, "productId": "2"},
+    { "userId": 8, "productId": "3"},
+    { "userId": 4, "productId": "7"}
+  ],
+  "products": [
+    {"productId": "1", "productName": "Super-duper laptop of your dream", "price: "10000.34"},
+    {"productId": "2", "productName": "health potion", "price: "10"},
+    {"productId": "3", "productName": "raspberry jam", "price: "34.1"},
+    {"productId": "4", "productName": "trumpet", "price: "6000.99"}
+  ]
+}
